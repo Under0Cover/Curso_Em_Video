@@ -14,5 +14,5 @@ while True:
         break
     print('-=-' * 20)
     for contador in range(1, 11):
-        print(f'{numero} X {contador:2} = {numero}')
+        print(f'{numero} X {contador:2} = {numero * contador}')
     print('-=-' * 20)
