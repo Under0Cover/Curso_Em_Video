@@ -1,5 +1,5 @@
 # IMPORTAÇÕES
-from projeto_final.lib.interface import *
+from lib.interface import *
 
 # FUNÇÕES
 

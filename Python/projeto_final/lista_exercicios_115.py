@@ -9,8 +9,8 @@
 # E LISTAR TODAS AS PESSOAS CADASTRADAS
 
 # IMPORTAÇÕES
-from projeto_final.lib.interface import *
-from projeto_final.lib.arquivo import *
+from lib.interface import *
+from lib.arquivo import *
 from time import sleep
 
 # ARQUIVO
